@@ -39,11 +39,19 @@ We have been having a lot of success going at a clip through concepts throughout
 
 ## Instruction - Flipping the Classroom
 
-We have flipped the classroom in San Francisco and it is enhancing student understanding and facilitating instructor preparation. 
+We have flipped the classroom in San Francisco and it is enhancing student understanding and facilitating instructor preparation.
 
 #### Evening Readings
 
-We assign a reading or readings every night for the concepts of the next day.
+We assign a reading or readings and videos every night for the concepts of the next day.
+
+#### Pair Programming
+
+By purchasing keyboards (without numberpads) and mice and usb ports we have introduced Pair Programming into to the WDI classroom. Pair programming is an industry standard practice used in software dev teams in interviews and in the work schedule. Moreover, Pair Programming reduces the frustration of "getting stuck" when learning to code, one of the biggest causes of burn out and student unhappiness.
+
+#### Longer Lessons
+
+We've extended lessons from 90 minutes to 120 minutes to give the students more time to do work in a space where they have access to instructors, DIRs, and access to pair programming equipment.
 
 #### The 33/66 Rule - Less Talking, More Doing
 
@@ -51,6 +59,4 @@ Instead of walking through a lot of code or giving lots of custom step-by-step i
 
 #### No Homework
 
-Students are expected to finish the basic challenges and try the stretch challenges from the morning and afternoon modules, but we do not expect them to work after 5:30. Although they can continue to work after 5:30, the only required work after 5:30 is to read the **evening readings** for the next day.
-
-### Pair Programming
+Students are expected to finish the basic challenges and try the stretch challenges from the morning and afternoon modules, but we do not give them required work for after 5:30. Students can continue to work after 5:30, on passion projects and challenges, but the only required work for WDI after 5:30 is to read the **evening readings** for the next day.
