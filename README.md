@@ -69,9 +69,9 @@ We've found that long explanations, demos, walk throughs, and code alongs waste 
 
 # A Note: Teaching Motivated Students
 
-While considering changes and innovations on this WDI curriculum remember that traditional education environments are largely designed to help people study things they are not very motivated to study. For many of our students and instructors, GA will be the first time that they experience a learning enviornment where the students genuinely and deeply want to learn the material. We must for this reason hold all traditional learning assessments, suitable
+Traditional education environments are largely designed to help people study things they are not very motivated to study. What 8th grader really really wants to study European History? For many of our students and instructors, GA will be the first time that they experience a learning enviornment where the students genuinely and deeply want to learn the material. For this reason, we must for this reason hold all traditional learning activities and assessments.
 
-You might think "But I was motivated in my traditional school" - probably you were! But consider that the learning activities, subject matter, and assessments were not built for you but for the many, many other students who indifferent or unmotivated. What would have the activities, subject matter, and assessments have looked like if all the students had been as motivated as you?  
+One might think "But, wait a tick buddy, I was motivated in my traditional educational setting!" - probably you were! Would the learning activities, subject matter, and assessments have been different if all the students had been as motivated as you?
 
 When teaching learners who choose to be there every day and are inspired to learn the content, we have the opportunity to dramatically change learning activities, subject matter, and assessments.
 
