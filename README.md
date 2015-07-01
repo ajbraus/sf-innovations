@@ -63,11 +63,13 @@ Nevertheless, students can continue to work after 5:30 on passion projects and c
 
 #### The 30/90 Rule - Less Talking, More Doing
 
-Instead of walking through a lot of code or giving lots of custom step-by-step instructions, we spend 30 minutes of the 90 minutes of a module explaining at a high level the motivation and concept and then we offer **Basic Challenges** that require the bare minimum of understanding. Then we create **Stretch Challenges** that stretch their understanding and challenge them to solve more abstract problems with the concept we introduced. We've found that the risk with this method is NOT that students will "slide by" doing the bare minimum. Instead, the risk is that students will try to do all the stretch challenges and get stuck or bogged down.
+We've found that long explanations, demos, walk throughs, and code alongs waste important classroom time where students have the amazing opportunity to work with the support of the instructional team (instructors & DIRs). Instead we spend only 20-40 minutes of the 120 minutes of a module explaining and briefly demoing at a high level the motivation and concept of the day. The rest of the class is spent completing **Basic Challenges** that require the bare minimum of understanding and **Stretch Challenges** that stretch their understanding. Most importantly, this structure gives the instructional team the ability to sideline struggling students and "unblock" their learning.
+
+(The risk with this method is NOT that students will "slide by" doing the bare minimum. Instead, the risk is that students will try to do all the stretch challenges and get stuck or bogged down.)
 
 # A Note: Teaching Motivated Students
 
-While considering changes and innovations on this WDI curriculum remember that traditional education environments, perhaps all the educational environments you've ever experienced, are largely designed to help people study things they are not very motivated to study.
+While considering changes and innovations on this WDI curriculum remember that traditional education environments are largely designed to help people study things they are not very motivated to study. For many of our students and instructors, GA will be the first time that they experience a learning enviornment where the students genuinely and deeply want to learn the material. We must for this reason hold all traditional learning assessments, suitable
 
 You might think "But I was motivated in my traditional school" - probably you were! But consider that the learning activities, subject matter, and assessments were not built for you but for the many, many other students who indifferent or unmotivated. What would have the activities, subject matter, and assessments have looked like if all the students had been as motivated as you?  
 
