@@ -57,10 +57,10 @@ We've extended lessons from 90 minutes to 120 minutes to give the students more 
 
 #### No Homework
 
-A lot of research on traditional education has shown that the benefit of homework is a toss up. For something as difficult and practical as learning to code, we are experimenting with not putting demands on students when they are least able to succeed.
+A lot of research on traditional education has shown that the benefit of homework is a toss up. For something as difficult and practical as learning to code, requiring homework puts demands on students when they are least able to succeed. Instead we put that work into the classroom where they are surrounded by DIRS and Instructors.
 
-Students are expected to finish the basic challenges and try the stretch challenges from the morning and afternoon modules, but we do not give them required work for after 5:30. Students can continue to work after 5:30, on passion projects and challenges, but the only required work for WDI after 5:30 is to read the **evening readings** for the next day.
+Nevertheless, students can continue to work after 5:30 on passion projects and challenges, but the only required work for WDI after 5:30 is to read the **evening readings** for the next day.
 
-#### The 33/66 Rule - Less Talking, More Doing
+#### The 30/90 Rule - Less Talking, More Doing
 
 Instead of walking through a lot of code or giving lots of custom step-by-step instructions, we spend 30 minutes of the 90 minutes of a module explaining at a high level the motivation and concept and then we offer **Basic Challenges** that require the bare minimum of understanding. Then we create **Stretch Challenges** that stretch their understanding and challenge them to solve more abstract problems with the concept we introduced. We've found that the risk with this method is NOT that students will "slide by" doing the bare minimum. Instead, the risk is that students will try to do all the stretch challenges and get stuck or bogged down.
