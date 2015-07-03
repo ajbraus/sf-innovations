@@ -1,8 +1,6 @@
 # SF Innovations
 
-We believe that General Assembly is the snazziest bootcamp out there with the best culture, and so it aught to be the best too.
-
-To that end, we have been making rapid and dramatic shifts to the curriculum and instructional style of WDI in San Francisco. By our measure these changes are making for fewer struggling students, less burn out, more impressive projects, greater student employability and higher NPS scores to boot. What follows is a summary of these changes broken out into two parts: **Curriculum**, **Instruction**, **Miscellaneous**.
+We believe that General Assembly is the snazziest bootcamp out there with the best culture, and so it aught to be the best too. To that end, we have been running iterative experiments with the curriculum and instructional style of WDI in San Francisco. By our measure these changes are making for fewer struggling students, less burn out, more impressive projects, greater student employability and higher NPS scores. What follows is a summary of these changes broken out into two parts: **Curriculum**, **Instruction**, **Miscellaneous**.
 
 # Curriculum - Teaching the Cutting Edge of the Web
 
