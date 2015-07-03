@@ -47,51 +47,51 @@ We have flipped the classroom in San Francisco and it is enhancing student under
 | Starts At | Activity |
 | :---: | :----- |
 | 9:17am | Interview Prep |
-| 10:15am | Interview Prep |
-| 12:00am | Interview Prep |
-| 12:30pm | Interview Prep |
-| 1:30pm | Interview Prep |
-| 3:30pm | Interview Prep |
-| 4:00pm | Interview Prep |
-| 5:30pm | Interview Prep |
+| 10:15am | Module 1 & Challenges |
+| 12:00am | Evening Lab & Yesterday's Challenges Review |
+| 12:30pm | Lunch |
+| 1:30pm | Module 2 & Challenges |
+| 3:30pm | Squads |
+| 4:00pm | 1:1's |
+| 5:30pm | Evening Reading, Lab, Finish Challenges |
 
 #### Evening Readings
 
-We assign a reading or readings and videos every night for the concepts of the next day.
+We assign readings and videos every night to intro the concepts of the next day.
 
 #### Pair Programming
 
-By purchasing keyboards (without numberpads) and mice and usb ports we have introduced Pair Programming into to the WDI classroom. Pair programming is an industry standard practice used in software dev teams in interviews and in the work schedule. Moreover, Pair Programming reduces the frustration of "getting stuck" when learning to code, one of the biggest causes of burn out and student unhappiness.
+By purchasing usb ports, mice, and narrow keyboards (without numberpads), we have introduced Pair Programming into to the WDI classroom. Pair programming is an industry standard practice used in software dev teams in interviews and in the work schedule. Moreover, Pair Programming reduces the frustration of "getting stuck" when learning to code, one of the biggest causes of burn out and student unhappiness.
 
 #### Longer Lessons
 
 We've extended lessons from 90 minutes to 120 minutes to give the students more time to do work in a space where they have access to instructors, DIRs, and access to pair programming equipment.
 
-#### No Homework
+A lot of research on traditional education has shown that the benefit of student's working at home is a toss up. For something as difficult and practical as learning to code, requiring homework puts demands on students when they are least able to succeed. Instead we put an emphasis on work done in the classroom where they are surrounded by DIRS and Instructors.
 
-A lot of research on traditional education has shown that the benefit of homework is a toss up. For something as difficult and practical as learning to code, requiring homework puts demands on students when they are least able to succeed. Instead we put that work into the classroom where they are surrounded by DIRS and Instructors.
+Nevertheless, students can continue to work after 5:30 on passion projects, finishing in class challenges, and occasionally evening labs, but the only required work for WDI after 5:30 is to go over the evening readings and videos for the next day.
 
-Nevertheless, students can continue to work after 5:30 on passion projects and challenges, but the only required work for WDI after 5:30 is to read the **evening readings** for the next day.
+#### The 30 Minute Rule - Less Talking, More Doing
 
-#### The 30/90 Rule - Less Talking, More Doing
-
-We've found that long explanations, demos, walk throughs, and code alongs waste important classroom time where students have the amazing opportunity to work with the support of the instructional team (instructors & DIRs). Instead we spend only 20-40 minutes of the 120 minutes of a module explaining and briefly demoing at a high level the motivation and concept of the day. The rest of the class is spent completing **Basic Challenges** that require the bare minimum of understanding and **Stretch Challenges** that stretch their understanding. Most importantly, this structure gives the instructional team the ability to sideline struggling students and "unblock" their learning.
-
-(The risk with this method is NOT that students will "slide by" doing the bare minimum. Instead, the risk is that students will try to do all the stretch challenges and get stuck or bogged down.)
+We've found that long explanations, demos, walk throughs, and code alongs waste important classroom time where students have the amazing opportunity to work with the support of each other and the instructional team. Instead we spend only 20-40 minutes of the 120 minutes of a module explaining and briefly demoing at a high level the motivation and concept of the day. The rest of the class is spent completing **Basic** and **Stretch Challenges**. This structure gives the instructional team the ability to sideline struggling students and "unblock" their learning.
 
 # Miscellaneous
 
 #### Squads and Student Success Ownership
 
-Every day at 3:30
+Every day at 3:30 we meet for squads
 
 #### Checkpoints for Projects
 
+For the three complete-week projects, we make a required hand in of their user narratives, wireframe, and list of their kanban stories on Tuesday, so we can course correct for a project that is out of scope or identify students who are struggling. We might meet 1:1 or assign them to pair program for the project.
+
 #### Agile Development Process
+
+
 
 #### Focus on Outside-in-Development
 
-Emphasiszing Vanilla Bootstrap
+Emphasis on Bootstrap and HTML & CSS.
 
 # A Note: Teaching Motivated Students
 
