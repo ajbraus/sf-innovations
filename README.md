@@ -2,7 +2,7 @@
 
 We believe that General Assembly is the snazziest bootcamp out there with the best culture, and so it aught to be the best too.
 
-To that end, we have been making rapid and dramatic shifts to the curriculum and instructional style of WDI in San Francisco and we believe these changes are working. By our measure these changes are making for fewer struggling students, less burn out, more impressive projects, greater student employability and higher NPS scores to boot. What follows is a summary of these changes broken out into two parts: **Curriculum** and **Instruction**.
+To that end, we have been making rapid and dramatic shifts to the curriculum and instructional style of WDI in San Francisco. By our measure these changes are making for fewer struggling students, less burn out, more impressive projects, greater student employability and higher NPS scores to boot. What follows is a summary of these changes broken out into two parts: **Curriculum**, **Instruction**, **Miscellaneous**.
 
 # Curriculum - Teaching the Cutting Edge of the Web
 
@@ -43,6 +43,18 @@ We have been having a lot of success going at a clip through concepts throughout
 
 We have flipped the classroom in San Francisco and it is enhancing student understanding and facilitating instructor preparation.
 
+#### Schedule
+| Starts At | Activity |
+| :---: | :----- |
+| 9:17am | Interview Prep |
+| 10:15am | Interview Prep |
+| 12:00am | Interview Prep |
+| 12:30pm | Interview Prep |
+| 1:30pm | Interview Prep |
+| 3:30pm | Interview Prep |
+| 4:00pm | Interview Prep |
+| 5:30pm | Interview Prep |
+
 #### Evening Readings
 
 We assign a reading or readings and videos every night for the concepts of the next day.
@@ -67,9 +79,23 @@ We've found that long explanations, demos, walk throughs, and code alongs waste 
 
 (The risk with this method is NOT that students will "slide by" doing the bare minimum. Instead, the risk is that students will try to do all the stretch challenges and get stuck or bogged down.)
 
+# Miscellaneous
+
+#### Squads and Student Success Ownership
+
+Every day at 3:30
+
+#### Checkpoints for Projects
+
+#### Agile Development Process
+
+#### Focus on Outside-in-Development
+
+Emphasiszing Vanilla Bootstrap
+
 # A Note: Teaching Motivated Students
 
-Traditional education environments are largely designed to help people study things they are not very motivated to study. What 8th grader really really wants to study European History? For many of our students and instructors, GA will be the first time that they experience a learning enviornment where the students genuinely and deeply want to learn the material. For this reason, we must for this reason hold all traditional learning activities and assessments.
+Traditional education environments are largely designed to help people study things they are not very motivated to study. What 8th grader really really wants to study European History? For many of our students and instructors, GA will be the first time that they experience a learning environment where the students genuinely and deeply want to learn the material. For this reason, we must for this reason hold all traditional learning activities and assessments.
 
 One might think "But, wait a tick buddy, I was motivated in my traditional educational setting!" - probably you were! Would the learning activities, subject matter, and assessments have been different if all the students had been as motivated as you?
 
