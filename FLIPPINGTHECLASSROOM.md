@@ -49,6 +49,10 @@ Mastery Tracking means tracking the mastery of every student for every major con
 
 By purchasing usb ports, mice, and narrow keyboards (without numberpads), we have introduced Pair Programming into to the WDI classroom. Pair programming is an industry standard practice used in software dev teams in interviews and in the work schedule. Moreover, Pair Programming increases students ability to talk about code while at the same time reducing the frustration of getting stuck when learning to code, one of the biggest causes of burn out and student unhappiness.
 
+### Friday Review days & Weekend Labs
+
+We have been having a lot of success going at a clip through concepts throughout the week and using Friday morning to do break out review sessions. Friday afternoon students begin working on a weekend lab, or if the next week is a project week, their project.
+
 ## The Benefits of Flipping
 
 Over all this multiplies success in a number of ways:
